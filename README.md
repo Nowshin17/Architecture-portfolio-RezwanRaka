@@ -6,4 +6,4 @@ It is a portfolio website for a architecture Company.
 Live link: https://nowshin17.github.io/Archi_website_Project-2/
 
 
-Designed by Nowshin Chowdhury
+
